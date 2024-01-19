@@ -47,7 +47,7 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 1,
+            "ad_game_minutes" : 2,
             "ad_int_interval" : 1,
             "score_rating_reward" : 3,
 
@@ -56,7 +56,7 @@
             "game_name": "Carreta Da Alegria Truck 2024",
             "game_cover": "",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://lagged.com/api/play/zombie-crashing/",
+            "game_link": "https://lagged.com/games/play2/sand-truck2/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
