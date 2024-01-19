@@ -47,7 +47,7 @@
             "ad_link" : "https://www.kimp.io/gif-marketing/",
 
             "ad_score_amount" : 1,
-            "ad_game_minutes" : 2,
+            "ad_game_minutes" : 1,
             "ad_int_interval" : 1,
             "score_rating_reward" : 3,
 
@@ -56,7 +56,7 @@
             "game_name": "Carreta Da Alegria Truck 2024",
             "game_cover": "",
             "game_gif": "https://im4.ezgif.com/tmp/ezgif-4-9437172247.gif",
-            "game_link": "https://lagged.com/games/play2/sand-truck2/",
+            "game_link": "https://lagged.com/api/play/zombie-crashing/",
 
             "update_app_activate": "false",
             "update_app_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia",
@@ -64,7 +64,7 @@
             "show_notfication":true,
             "Counter": "360000",
             "notification_title": "check our new game",
-            "notification_text": "Woow Watermelon Merge Fruit Drop",
+            "notification_text": "Woow Watermelon Merge: Fruit Drop",
             "showrate" : true
 
         
